@@ -157,7 +157,3 @@ For issues, questions, or contributions:
 - Create an issue in the repository
 - Check the troubleshooting section
 - Review the debug logs
-
----
-
-**Built with ❤️ using Python and modern web technologies**

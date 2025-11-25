@@ -1,0 +1,151 @@
+{
+  "overall_statistics": {
+    "total_reviews": 90,
+    "unique_products": 5,
+    "average_rating": 4.5777777777777775,
+    "rating_distribution": {
+      "5.0": 58,
+      "4.0": 26,
+      "3.0": 6
+    },
+    "average_quality_score": 0.3837600547667241,
+    "average_sentiment": 0.6432755555555556
+  },
+  "content_analysis": {
+    "avg_review_length": 339.55555555555554,
+    "avg_word_count": 59.977777777777774,
+    "avg_token_count": 59.977777777777774,
+    "avg_unique_words": 34.53333333333333,
+    "avg_word_length": 4.948270892518416,
+    "reviews_with_profanity": 0,
+    "reviews_with_personal_info": 0,
+    "reviews_with_emojis": 12,
+    "avg_emoji_count": 0.26666666666666666
+  },
+  "sentiment_analysis": {
+    "avg_vader_compound": 0.6432755555555556,
+    "avg_vader_positive": 0.3462222222222222,
+    "avg_vader_negative": 0.05528888888888889,
+    "avg_vader_neutral": 0.5985555555555555,
+    "polarity_disagreements": 4,
+    "avg_disagreement_score": 0.33926666666666666,
+    "positive_reviews_pct": 26.666666666666668,
+    "negative_reviews_pct": 0.0,
+    "neutral_reviews_pct": 73.33333333333333
+  },
+  "emotion_analysis": {
+    "joy": {
+      "total_mentions": 48,
+      "avg_per_review": 0.5333333333333333,
+      "reviews_with_emotion": 32
+    },
+    "anger": {
+      "total_mentions": 2,
+      "avg_per_review": 0.022222222222222223,
+      "reviews_with_emotion": 2
+    },
+    "sadness": {
+      "total_mentions": 4,
+      "avg_per_review": 0.044444444444444446,
+      "reviews_with_emotion": 4
+    },
+    "fear": {
+      "total_mentions": 0,
+      "avg_per_review": 0.0,
+      "reviews_with_emotion": 0
+    },
+    "surprise": {
+      "total_mentions": 0,
+      "avg_per_review": 0.0,
+      "reviews_with_emotion": 0
+    },
+    "trust": {
+      "total_mentions": 20,
+      "avg_per_review": 0.2222222222222222,
+      "reviews_with_emotion": 16
+    },
+    "dominant_emotion_distribution": {
+      "joy": 82,
+      "trust": 6,
+      "anger": 2
+    }
+  },
+  "product_aspects": {
+    "battery": {
+      "mentions": 42,
+      "avg_sentiment": 0.6933809523809524,
+      "positive_mentions": 38,
+      "negative_mentions": 2
+    },
+    "camera": {
+      "mentions": 50,
+      "avg_sentiment": 0.7852600000000001,
+      "positive_mentions": 48,
+      "negative_mentions": 2
+    },
+    "price": {
+      "mentions": 38,
+      "avg_sentiment": 0.7177052631578948,
+      "positive_mentions": 38,
+      "negative_mentions": 0
+    },
+    "delivery": {
+      "mentions": 28,
+      "avg_sentiment": 0.7322642857142857,
+      "positive_mentions": 26,
+      "negative_mentions": 2
+    },
+    "design": {
+      "mentions": 12,
+      "avg_sentiment": 0.9694333333333335,
+      "positive_mentions": 12,
+      "negative_mentions": 0
+    },
+    "quality": {
+      "mentions": 34,
+      "avg_sentiment": 0.8801529411764706,
+      "positive_mentions": 34,
+      "negative_mentions": 0
+    },
+    "performance": {
+      "mentions": 48,
+      "avg_sentiment": 0.7537541666666666,
+      "positive_mentions": 46,
+      "negative_mentions": 2
+    },
+    "service": {
+      "mentions": 6,
+      "avg_sentiment": 0.8931333333333332,
+      "positive_mentions": 6,
+      "negative_mentions": 0
+    },
+    "total_aspect_mentions": {
+      "battery": 42,
+      "camera": 50,
+      "price": 38,
+      "delivery": 28,
+      "design": 12,
+      "quality": 34,
+      "performance": 48,
+      "service": 6
+    }
+  },
+  "emoji_analysis": {
+    "emoji_emotion_distribution": {
+      "neutral": 86,
+      "joy": 2,
+      "love": 2
+    },
+    "reviews_with_emoji_emotions": 4
+  },
+  "slang_analysis": {
+    "reviews_with_slang": 42,
+    "avg_slang_count": 0.7333333333333333,
+    "total_slang_terms": 66
+  },
+  "quality_distribution": {
+    "high_quality_pct": 15.555555555555555,
+    "medium_quality_pct": 13.333333333333334,
+    "low_quality_pct": 71.11111111111111
+  }
+}

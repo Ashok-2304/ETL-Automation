@@ -1,0 +1,449 @@
+asin,title,rating,content,review_date,processing_batch_id,data_source,text_length,word_count,sentence_count,token_count,unique_word_count,avg_word_length,vader_compound,vader_pos,vader_neg,vader_neu,polarity_rating_disagree,disagreement_score,negation_count,negation_adjusted_sentiment,positive_word_count,negative_word_count,sentiment_ratio,mentioned_aspects,aspect_count,aspect_battery_sentiment,aspect_camera_sentiment,aspect_price_sentiment,aspect_delivery_sentiment,aspect_design_sentiment,aspect_quality_sentiment,aspect_performance_sentiment,aspect_service_sentiment,emotion_joy,emotion_anger,emotion_sadness,emotion_fear,emotion_surprise,emotion_trust,dominant_emotion,emoji_count,has_emoji,emoji_emotion,emoji_emotion_scores,slang_count,slang_terms,has_profanity,has_personal_info,review_age_days,is_recent_review,comprehensive_quality_score
+B0CX59H5W7,"5.0 out of 5 stars
+ Mostly Loving",5.0,Awesome mobile Thanks OnePlus Nice camera and battery backup with Fast charging Lag Free Processor Mostly loved phone at the price,Reviewed in India on 28 October 2025,20251118_003726,amazon_scraper,130,21,1,21,21,5.238095238095238,0.9393,0.494,0.07,0.436,False,0.060699999999999976,0,0.9393,2,0,0.09090909090909091,"['battery', 'camera', 'price', 'delivery', 'performance']",5,0.9393,0.9393,0.9393,0.9393,0.0,0.0,0.9393,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.35263636363636364
+B0CX59H5W7,"4.0 out of 5 stars
+ Camera good, phone is also very good...",4.0,Good👍👍👍👍,Reviewed in India on 19 October 2025,20251118_003726,amazon_scraper,8,1,1,1,0,8.0,0.0,0.0,0.0,1.0,False,0.5,0,0.0,1,0,0.5,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,4,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",0,[],False,False,,False,0.2296
+B0CX59H5W7,"5.0 out of 5 stars
+ OnePlus Nord CE4 the EXTRAORDINARY!!!",5.0,"I usually not write ✍️ review very fast when it comes to smartphone. First I need to use it and under rigorous testing only I can put forward my verdict so that any brother or sister can buy the same from Amazon.
+BODY : OnePlus has comeup with a very durable body and stylish. Looking premium.
+
+DISPLAY: Its a PureAmoled with 10Bit resolution with crispy HDR10 features. Vibrant natural color and screen ratio is 88.5% to body ratio. So very less bezels.
+
+BATTERY: Easily comes for 1 and half day if not playing any games. With games 1 day. No idle midnight auto battery drain and all. 5500mAh is very slowly discharging and due to 100w charger coming inside the box the mobile charges in 17 to 18minutes only upto 85% and full 100% charging approx 19 minutes as per my test.
+
+CAMERA: Very ok for the price. I got one update recently in May 25, 2024 and after this the camera works wonderful specially selfie and portrait mode.
+
+PROCESSOR: Snapdragon 7Gen3 name is enough that it is very stable and fast multi tasking and even this snapdragon version not heats up fastly. The clock speed is amazingly impressive to any games like PUBG or FreeFires or Asphalt. Rest all the medium games runs smoothly. No throttle. No lag and even No uncommon heating issues etc.
+
+METWORK: Very fast 5G and even 4G also no issues. Runs smoothly without any call drop or any disturbance in voice quality. The Voice Focus mode works very nice even in the rush or crowded metro area. Last time recorded download speed was 175mbps & upload speed approx 145 to 166mbps.
+
+STEREO SPEAKERS: This is what attracted me the most. The stereo speakers are very loud enough. And even it sync the eaarpods very quickly. OnePlus earpods are recommended for all those EQ and bass.
+
+OVERALL VERDICT: Very lightest mobile inspite of 5500 mAh battery. Too premium boxy design. Call and network speed very impressive. After investing on this phone I have not regretted. Highly recommended and Value for money. Thanks Seller and Amazon. 100w charger in the box. Backcase and screen guard all in the box. A complete midrange killer phone. Highly valuable.
+
+Read more",Reviewed in India on 28 May 2024,20251118_003726,amazon_scraper,2125,372,38,372,193,4.693548387096774,0.98,0.137,0.064,0.799,False,0.020000000000000018,9,0.07999999999999996,2,0,0.005361930294906166,"['battery', 'camera', 'price', 'delivery', 'design', 'quality', 'performance']",7,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.0,2,0,1,0,0,1,joy,1,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",5,"['lit', 'fire', 'crisp', 'mid', 'ass']",False,False,,False,0.790804289544236
+B0CX59H5W7,"5.0 out of 5 stars
+ OnePlus Nord CE 4 – Great Overall, Just a Bit Power Hungry on Mobile Data",5.0,"I've been using the OnePlus Nord CE 4 for a few weeks now, and honestly, it’s a solid phone for the price. The performance is smooth — apps open quickly, switching between them is fast, and there’s no lag even when I’m playing games or watching videos. The display is bright, super responsive with the 120Hz refresh rate, and looks great for watching content or just scrolling.
+
+The design feels premium even though it’s lightweight, and the camera has been surprisingly good, especially in daylight. Pictures come out sharp and colors are natural — not overly saturated.
+
+Battery life is mostly pretty good. On Wi-Fi or casual use, it easily lasts a full day. But I did notice that it consumes a bit more battery when I’m using mobile data or doing WhatsApp video calls. It’s not terrible, but it’s noticeable, especially if you’re on video calls for a long time or out and about without Wi-Fi.
+
+The good news is the charging is ridiculously fast. I can go from nearly 0 to 100% in around half an hour with the 100W SUPERVOOC charger, so even if the battery drains a bit faster sometimes, it’s super easy to top it up quickly.
+
+All in all, the Nord CE 4 is a great pick if you're looking for a powerful mid-range phone with a clean user experience. Just keep in mind that video calls on mobile data can drain the battery a bit faster — but the fast charging totally makes up for it.
+
+Read more",Reviewed in India on 6 June 2025,20251118_003726,amazon_scraper,1394,255,14,255,122,4.450980392156863,0.9927,0.208,0.023,0.769,False,0.007299999999999973,3,0.6927,6,1,0.01953125,"['battery', 'camera', 'price', 'delivery', 'design', 'quality', 'performance']",7,0.9927,0.9927,0.9927,0.9927,0.9927,0.9927,0.9927,0.0,0,1,0,0,0,1,anger,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",3,"['clean', 'fresh', 'mid']",False,False,,False,0.7929296875
+B0CX59H5W7,"5.0 out of 5 stars
+ Awesome product in this budget segment and superb built quality and smooth working",5.0,Awesome product,Reviewed in India on 12 November 2025,20251118_003726,amazon_scraper,15,2,1,2,2,7.0,0.6249,0.804,0.0,0.196,False,0.3751,0,0.6249,1,0,0.3333333333333333,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.209
+B0CX59H5W7,"4.0 out of 5 stars
+ Mind blowing",4.0,A good one plus mobile. Fast charging and long battery backup.,Reviewed in India on 25 September 2025,20251118_003726,amazon_scraper,62,11,3,11,9,4.7272727272727275,0.4404,0.244,0.0,0.756,False,0.059599999999999986,0,0.4404,1,0,0.08333333333333333,"['battery', 'delivery', 'performance']",3,0.4404,0.0,0.0,0.4404,0.0,0.0,0.4404,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2679
+B0CX59H5W7,"5.0 out of 5 stars
+ OnePlus is emotion❤️",5.0,"Awesome phone, best picture quality, fast fingerprint, high function mobile , slim phone to hand , no lag issue",Reviewed in India on 27 October 2025,20251118_003726,amazon_scraper,111,19,1,19,14,4.894736842105263,0.836,0.409,0.164,0.427,False,0.16400000000000003,1,0.736,2,0,0.1,"['camera', 'delivery', 'quality', 'performance']",4,0.0,0.836,0.0,0.836,0.0,0.836,0.836,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3242
+B0CX59H5W7,"3.0 out of 5 stars
+ Thik Thak Phone",3.0,"The display is good — smooth, with minimal bezels — and the fingerprint sensor is fast and responsive.
+Performance is solid for day-to-day tasks. I don’t play heavy games, so I can’t comment on gaming performance.
+The battery easily lasts a full day, but you’ll need to charge it the next day. The charger is unnecessarily fast, as the phone gets slightly warm while charging.
+The camera is good but not great. It does the job, but don’t expect too much.
+The software feels exactly like Realme and Oppo phones — it just carries the OxygenOS name. There’s a lot of bloatware, and you have to accept many unnecessary privacy policies and terms and conditions just to enable basic features like Global Search or the camera. If you want good software then, go for Nothing, Samsung, or Pixel phones instead.
+Still, it’s a decent Chinese phone at 19K.",Reviewed in India on 10 November 2025,20251118_003726,amazon_scraper,845,148,12,148,79,4.716216216216216,0.9634,0.183,0.028,0.79,False,0.9634,2,0.7634000000000001,5,0,0.03355704697986577,"['battery', 'camera', 'delivery', 'quality', 'performance']",5,0.9634,0.9634,0.0,0.9634,0.0,0.9634,0.9634,0.0,0,0,0,0,0,1,trust,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['basic'],False,False,,False,0.7240335570469798
+B0CX59H5W7,all side good,5.0,this phone very good but nfc not available this phone,Reviewed in Saudi Arabia on 5 August 2025,20251118_003726,amazon_scraper,53,10,1,10,8,4.4,-0.6541,0.135,0.35,0.515,True,1.6541000000000001,1,-1.0,1,0,0.09090909090909091,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.20423636363636363
+B0CX59H5W7,Exallent,5.0,Superb,Reviewed in the United Arab Emirates on 24 July 2025,20251118_003726,amazon_scraper,6,1,1,1,1,6.0,0.6249,1.0,0.0,0.0,False,0.3751,0,0.6249,0,0,0.0,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.1542
+B0CX59H5W7,Genuine and Sealed pack.,5.0,There is no Complain.i trust Oneplus Mobiles.,Reviewed in the United Arab Emirates on 27 May 2025,20251118_003726,amazon_scraper,45,7,3,7,5,5.571428571428571,0.2732,0.314,0.21,0.476,False,0.7268,1,0.1732,0,0,0.0,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1,trust,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.18
+B0CX59H5W7,Appreciate,5.0,"I am always purchase via Amazon sa
+That is really great 👍",Reviewed in Saudi Arabia on 14 September 2024,20251118_003726,amazon_scraper,57,12,1,12,11,3.8333333333333335,0.7264,0.432,0.0,0.568,False,0.27359999999999995,0,0.7264,1,0,0.07692307692307693,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,1,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",0,[],False,False,,False,0.20893846153846152
+B0CX59H5W7,Working fine in general,5.0,"The phone works perfectly and meets all expectations. It offers smooth performance, long battery life, and excellent camera quality. The display is clear, and the system is stable and fast. A reliable product that I highly recommend. Thank you to the company for the high quality!",Reviewed in the United Arab Emirates on 22 December 2024,20251118_003726,amazon_scraper,280,46,5,46,30,5.108695652173913,0.9556,0.328,0.0,0.672,False,0.044399999999999995,0,0.9556,2,0,0.0425531914893617,"['battery', 'camera', 'delivery', 'quality', 'performance']",5,0.9556,0.9556,0.0,0.9556,0.0,0.9556,0.9556,0.0,2,0,0,0,0,2,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.45038297872340427
+B0CX59H5W7,"5.0 out of 5 stars
+ Mostly Loving",5.0,Awesome mobile Thanks OnePlus Nice camera and battery backup with Fast charging Lag Free Processor Mostly loved phone at the price,Reviewed in India on 28 October 2025,20251118_003726,amazon_scraper,130,21,1,21,21,5.238095238095238,0.9393,0.494,0.07,0.436,False,0.060699999999999976,0,0.9393,2,0,0.09090909090909091,"['battery', 'camera', 'price', 'delivery', 'performance']",5,0.9393,0.9393,0.9393,0.9393,0.0,0.0,0.9393,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.35263636363636364
+B0CX59H5W7,"4.0 out of 5 stars
+ Camera good, phone is also very good...",4.0,Good👍👍👍👍,Reviewed in India on 19 October 2025,20251118_003726,amazon_scraper,8,1,1,1,0,8.0,0.0,0.0,0.0,1.0,False,0.5,0,0.0,1,0,0.5,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,4,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",0,[],False,False,,False,0.2296
+B0CX59H5W7,"5.0 out of 5 stars
+ OnePlus Nord CE4 the EXTRAORDINARY!!!",5.0,"I usually not write ✍️ review very fast when it comes to smartphone. First I need to use it and under rigorous testing only I can put forward my verdict so that any brother or sister can buy the same from Amazon.
+BODY : OnePlus has comeup with a very durable body and stylish. Looking premium.
+
+DISPLAY: Its a PureAmoled with 10Bit resolution with crispy HDR10 features. Vibrant natural color and screen ratio is 88.5% to body ratio. So very less bezels.
+
+BATTERY: Easily comes for 1 and half day if not playing any games. With games 1 day. No idle midnight auto battery drain and all. 5500mAh is very slowly discharging and due to 100w charger coming inside the box the mobile charges in 17 to 18minutes only upto 85% and full 100% charging approx 19 minutes as per my test.
+
+CAMERA: Very ok for the price. I got one update recently in May 25, 2024 and after this the camera works wonderful specially selfie and portrait mode.
+
+PROCESSOR: Snapdragon 7Gen3 name is enough that it is very stable and fast multi tasking and even this snapdragon version not heats up fastly. The clock speed is amazingly impressive to any games like PUBG or FreeFires or Asphalt. Rest all the medium games runs smoothly. No throttle. No lag and even No uncommon heating issues etc.
+
+METWORK: Very fast 5G and even 4G also no issues. Runs smoothly without any call drop or any disturbance in voice quality. The Voice Focus mode works very nice even in the rush or crowded metro area. Last time recorded download speed was 175mbps & upload speed approx 145 to 166mbps.
+
+STEREO SPEAKERS: This is what attracted me the most. The stereo speakers are very loud enough. And even it sync the eaarpods very quickly. OnePlus earpods are recommended for all those EQ and bass.
+
+OVERALL VERDICT: Very lightest mobile inspite of 5500 mAh battery. Too premium boxy design. Call and network speed very impressive. After investing on this phone I have not regretted. Highly recommended and Value for money. Thanks Seller and Amazon. 100w charger in the box. Backcase and screen guard all in the box. A complete midrange killer phone. Highly valuable.
+
+Read more",Reviewed in India on 28 May 2024,20251118_003726,amazon_scraper,2125,372,38,372,193,4.693548387096774,0.98,0.137,0.064,0.799,False,0.020000000000000018,9,0.07999999999999996,2,0,0.005361930294906166,"['battery', 'camera', 'price', 'delivery', 'design', 'quality', 'performance']",7,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.0,2,0,1,0,0,1,joy,1,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",5,"['lit', 'fire', 'crisp', 'mid', 'ass']",False,False,,False,0.790804289544236
+B0CX59H5W7,"5.0 out of 5 stars
+ OnePlus Nord CE 4 – Great Overall, Just a Bit Power Hungry on Mobile Data",5.0,"I've been using the OnePlus Nord CE 4 for a few weeks now, and honestly, it’s a solid phone for the price. The performance is smooth — apps open quickly, switching between them is fast, and there’s no lag even when I’m playing games or watching videos. The display is bright, super responsive with the 120Hz refresh rate, and looks great for watching content or just scrolling.
+
+The design feels premium even though it’s lightweight, and the camera has been surprisingly good, especially in daylight. Pictures come out sharp and colors are natural — not overly saturated.
+
+Battery life is mostly pretty good. On Wi-Fi or casual use, it easily lasts a full day. But I did notice that it consumes a bit more battery when I’m using mobile data or doing WhatsApp video calls. It’s not terrible, but it’s noticeable, especially if you’re on video calls for a long time or out and about without Wi-Fi.
+
+The good news is the charging is ridiculously fast. I can go from nearly 0 to 100% in around half an hour with the 100W SUPERVOOC charger, so even if the battery drains a bit faster sometimes, it’s super easy to top it up quickly.
+
+All in all, the Nord CE 4 is a great pick if you're looking for a powerful mid-range phone with a clean user experience. Just keep in mind that video calls on mobile data can drain the battery a bit faster — but the fast charging totally makes up for it.
+
+Read more",Reviewed in India on 6 June 2025,20251118_003726,amazon_scraper,1394,255,14,255,122,4.450980392156863,0.9927,0.208,0.023,0.769,False,0.007299999999999973,3,0.6927,6,1,0.01953125,"['battery', 'camera', 'price', 'delivery', 'design', 'quality', 'performance']",7,0.9927,0.9927,0.9927,0.9927,0.9927,0.9927,0.9927,0.0,0,1,0,0,0,1,anger,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",3,"['clean', 'fresh', 'mid']",False,False,,False,0.7929296875
+B0CX59H5W7,"5.0 out of 5 stars
+ Awesome product in this budget segment and superb built quality and smooth working",5.0,Awesome product,Reviewed in India on 12 November 2025,20251118_003726,amazon_scraper,15,2,1,2,2,7.0,0.6249,0.804,0.0,0.196,False,0.3751,0,0.6249,1,0,0.3333333333333333,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.209
+B0CX59H5W7,"4.0 out of 5 stars
+ Mind blowing",4.0,A good one plus mobile. Fast charging and long battery backup.,Reviewed in India on 25 September 2025,20251118_003726,amazon_scraper,62,11,3,11,9,4.7272727272727275,0.4404,0.244,0.0,0.756,False,0.059599999999999986,0,0.4404,1,0,0.08333333333333333,"['battery', 'delivery', 'performance']",3,0.4404,0.0,0.0,0.4404,0.0,0.0,0.4404,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2679
+B0CX59H5W7,"5.0 out of 5 stars
+ OnePlus is emotion❤️",5.0,"Awesome phone, best picture quality, fast fingerprint, high function mobile , slim phone to hand , no lag issue",Reviewed in India on 27 October 2025,20251118_003726,amazon_scraper,111,19,1,19,14,4.894736842105263,0.836,0.409,0.164,0.427,False,0.16400000000000003,1,0.736,2,0,0.1,"['camera', 'delivery', 'quality', 'performance']",4,0.0,0.836,0.0,0.836,0.0,0.836,0.836,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3242
+B0CX59H5W7,"3.0 out of 5 stars
+ Thik Thak Phone",3.0,"The display is good — smooth, with minimal bezels — and the fingerprint sensor is fast and responsive.
+Performance is solid for day-to-day tasks. I don’t play heavy games, so I can’t comment on gaming performance.
+The battery easily lasts a full day, but you’ll need to charge it the next day. The charger is unnecessarily fast, as the phone gets slightly warm while charging.
+The camera is good but not great. It does the job, but don’t expect too much.
+The software feels exactly like Realme and Oppo phones — it just carries the OxygenOS name. There’s a lot of bloatware, and you have to accept many unnecessary privacy policies and terms and conditions just to enable basic features like Global Search or the camera. If you want good software then, go for Nothing, Samsung, or Pixel phones instead.
+Still, it’s a decent Chinese phone at 19K.",Reviewed in India on 10 November 2025,20251118_003726,amazon_scraper,845,148,12,148,79,4.716216216216216,0.9634,0.183,0.028,0.79,False,0.9634,2,0.7634000000000001,5,0,0.03355704697986577,"['battery', 'camera', 'delivery', 'quality', 'performance']",5,0.9634,0.9634,0.0,0.9634,0.0,0.9634,0.9634,0.0,0,0,0,0,0,1,trust,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['basic'],False,False,,False,0.7240335570469798
+B0CX59H5W7,all side good,5.0,this phone very good but nfc not available this phone,Reviewed in Saudi Arabia on 5 August 2025,20251118_003726,amazon_scraper,53,10,1,10,8,4.4,-0.6541,0.135,0.35,0.515,True,1.6541000000000001,1,-1.0,1,0,0.09090909090909091,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.20423636363636363
+B0CX59H5W7,Exallent,5.0,Superb,Reviewed in the United Arab Emirates on 24 July 2025,20251118_003726,amazon_scraper,6,1,1,1,1,6.0,0.6249,1.0,0.0,0.0,False,0.3751,0,0.6249,0,0,0.0,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.1542
+B0CX59H5W7,Genuine and Sealed pack.,5.0,There is no Complain.i trust Oneplus Mobiles.,Reviewed in the United Arab Emirates on 27 May 2025,20251118_003726,amazon_scraper,45,7,3,7,5,5.571428571428571,0.2732,0.314,0.21,0.476,False,0.7268,1,0.1732,0,0,0.0,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,1,trust,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.18
+B0CX59H5W7,Appreciate,5.0,"I am always purchase via Amazon sa
+That is really great 👍",Reviewed in Saudi Arabia on 14 September 2024,20251118_003726,amazon_scraper,57,12,1,12,11,3.8333333333333335,0.7264,0.432,0.0,0.568,False,0.27359999999999995,0,0.7264,1,0,0.07692307692307693,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,1,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",0,[],False,False,,False,0.20893846153846152
+B0CX59H5W7,Working fine in general,5.0,"The phone works perfectly and meets all expectations. It offers smooth performance, long battery life, and excellent camera quality. The display is clear, and the system is stable and fast. A reliable product that I highly recommend. Thank you to the company for the high quality!",Reviewed in the United Arab Emirates on 22 December 2024,20251118_003726,amazon_scraper,280,46,5,46,30,5.108695652173913,0.9556,0.328,0.0,0.672,False,0.044399999999999995,0,0.9556,2,0,0.0425531914893617,"['battery', 'camera', 'delivery', 'quality', 'performance']",5,0.9556,0.9556,0.0,0.9556,0.0,0.9556,0.9556,0.0,2,0,0,0,0,2,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.45038297872340427
+B0FHB5V36G,"5.0 out of 5 stars
+ Z 10R experience",5.0,Excellent to use. Best camera ever used and great at gaming experience. The ui quality is awesome as well.,Reviewed in India on 6 November 2025,20251118_003826,amazon_scraper,106,19,4,19,16,4.631578947368421,0.9595,0.565,0.0,0.435,False,0.04049999999999998,0,0.9595,4,0,0.2,"['camera', 'quality']",2,0.0,0.9595,0.0,0.0,0.0,0.9595,0.0,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.2982
+B0FHB5V36G,"4.0 out of 5 stars
+ great daily driver, with one flaw",4.0,"i have a lot of phones, as amazon and flipkart already know. but, i do NOT use my mid/high end phones as my daily drivers. my gaming phones are stuck at home and have almost never seen the world outside my house. i will also tell you why i don't use my mid/high end phones outside - because i tend to drop them, crack them, etc.
+
+but sometime in august/september i realized that i was doing so many things on my daily use phone that i needed a decent mid range phone. and that is when the search began. i had zeroed in on 4 different mid range phones, but i decided to settle on this one.
+
+my main criteria for choosing a new phone was that it had to be decently powerful (able to create a presentation, in the worst of the cases), and MORE IMPORTANTLY, this new phone had to be very light weight.
+
+this phone, the iqoo z10r fit the bill in every way, but one (wait for it).
+
+the other phone i almost bought, but didn't really, was the tecno pova curve. that's a slim, light weight phone with a decent chipset (7300). it lost in the looks department.
+
+but this phone had a lot of things going for it: a solid chipset (7400), great cameras (for a mid range phone, especially with the vivo legacy), fairly slim, and fairly light weight.
+
+i have been using this phone as my daily driver for the past few months now, and the iqoo z10r has NOT disappointed in most departments, spare one: this phone is wide! had this phone been a little more wide... this phone would have been a square! holding the phone in a single hand is NOT easy because of how wide the phone is.
+
+i am not a fan of the camera bump either. and the light... again, i am not a fan of it.
+
+the front camera quality is amazing. rear cameras... i am not so sure. they are okay. my low/mid range infinix, redmi and realme phones probably take equally good, if not better pictures with their rear cameras, when compared to this phone's rear cameras.
+
+another big problem: i think this phone could get damaged quite easily given how thin it is. just an hour back i was getting out of my friend's car, and my phone was in between my legs, or maybe i was sitting on it, and the phone fell on a concrete road, as i exited the vehicle. for a minute i thought: there goes my 20k. luckily i had bought a decently tough cover for the phone, so the phone survived (i hope). let's see... we will know if this phone can actually survive a few feet falls onto heavy concrete streets.
+
+i have played multiple games on this phone - bgmi, racing games, some low end games, etc, and they all run smoothly. my ancient redmi k50 supports smooth + extreme+, but this phone supports only smooth + extreme. doesn't make much of a difference for me as i am a casual bgmi warrior.
+
+overall, this is a good phone for the price, if you can overlook the fact that it is VERY WIDE!
+
+Read more",Reviewed in India on 13 November 2025,20251118_003826,amazon_scraper,2825,541,41,541,198,4.2014787430683915,0.9888,0.127,0.07,0.803,False,0.4888,10,-0.011199999999999988,5,1,0.007380073800738007,"['battery', 'camera', 'price', 'design', 'quality', 'performance', 'service']",7,0.9888,0.9888,0.9888,0.0,0.9888,0.9888,0.9888,0.9888,1,0,1,0,0,1,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",2,"['lit', 'mid']",False,False,,False,0.7911070110701107
+B0FHB5V36G,"5.0 out of 5 stars
+ I am very happy to share this review",5.0,"Superb Mobile, excellent quality, really value for money. Thanks iQOO.",Reviewed in India on 14 November 2025,20251118_003826,amazon_scraper,70,10,3,10,6,6.1,0.9245,0.691,0.0,0.309,False,0.07550000000000001,0,0.9245,1,0,0.09090909090909091,"['camera', 'price', 'quality']",3,0.0,0.9245,0.9245,0.0,0.0,0.9245,0.0,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.2676363636363636
+B0FHB5V36G,"5.0 out of 5 stars
+ nice Quality",5.0,best,Reviewed in India on 13 November 2025,20251118_003826,amazon_scraper,4,1,1,1,1,4.0,0.6369,1.0,0.0,0.0,False,0.3631,0,0.6369,1,0,0.5,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2288
+B0FHB5V36G,"5.0 out of 5 stars
+ Happy with the purchase",5.0,Great purchase !! Working well and has overall good performance,Reviewed in India on 13 November 2025,20251118_003826,amazon_scraper,63,10,1,10,9,5.4,0.8652,0.58,0.0,0.42,False,0.13480000000000003,0,0.8652,2,0,0.18181818181818182,['performance'],1,0.0,0.0,0.0,0.0,0.0,0.0,0.8652,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2398727272727273
+B0FHB5V36G,"4.0 out of 5 stars
+ Balanced Performance with Room for Improvement",4.0,"A decent mid-range mobile; feels smooth while using, lightweight, with a decent camera and good power efficiency.
+The power adapter capacity could be improved, preferably from 44W to 80W (expected).
+However, don’t rely on the water-resistant feature of this mobile.
+
+Thanks 🙂",Reviewed in India on 24 October 2025,20251118_003826,amazon_scraper,275,42,4,42,26,5.5476190476190474,0.886,0.246,0.0,0.754,False,0.386,0,0.886,1,0,0.023255813953488372,"['battery', 'camera', 'performance']",3,0.886,0.886,0.0,0.0,0.0,0.0,0.886,0.0,0,0,0,0,0,0,joy,1,True,joy,"{'dominant': 'joy', 'emotions': {'joy': 1, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",2,"['mid', 'cap']",False,False,,False,0.39448837209302323
+B0FHB5V36G,"5.0 out of 5 stars
+ Friendly usage",5.0,Good mobile for this price,Reviewed in India on 10 November 2025,20251118_003826,amazon_scraper,26,5,1,5,5,4.4,0.4404,0.42,0.0,0.58,False,0.5596,0,0.4404,1,0,0.16666666666666666,['price'],1,0.0,0.0,0.4404,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2152
+B0FHB5V36G,"4.0 out of 5 stars
+ Budget phone with quality",4.0,"Camera- excellent, Screen display- Good, but little bit whiteish...could have been better in contrast, sound- perfectly fine. Call quality is good, not heating, Battery is Good for daily nromal usage....Only cons- No Provision for Memory Card and no 3.5mm jack.",Reviewed in India on 12 October 2025,20251118_003826,amazon_scraper,261,40,11,40,23,5.55,0.9598,0.395,0.093,0.513,False,0.4598,3,0.6597999999999999,4,0,0.0975609756097561,"['battery', 'camera', 'quality']",3,0.9598,0.9598,0.0,0.0,0.0,0.9598,0.0,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.39683414634146336
+B0FHB5V36G,"5.0 out of 5 stars
+ Z 10R experience",5.0,Excellent to use. Best camera ever used and great at gaming experience. The ui quality is awesome as well.,Reviewed in India on 6 November 2025,20251118_003826,amazon_scraper,106,19,4,19,16,4.631578947368421,0.9595,0.565,0.0,0.435,False,0.04049999999999998,0,0.9595,4,0,0.2,"['camera', 'quality']",2,0.0,0.9595,0.0,0.0,0.0,0.9595,0.0,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.2982
+B0FHB5V36G,"4.0 out of 5 stars
+ great daily driver, with one flaw",4.0,"i have a lot of phones, as amazon and flipkart already know. but, i do NOT use my mid/high end phones as my daily drivers. my gaming phones are stuck at home and have almost never seen the world outside my house. i will also tell you why i don't use my mid/high end phones outside - because i tend to drop them, crack them, etc.
+
+but sometime in august/september i realized that i was doing so many things on my daily use phone that i needed a decent mid range phone. and that is when the search began. i had zeroed in on 4 different mid range phones, but i decided to settle on this one.
+
+my main criteria for choosing a new phone was that it had to be decently powerful (able to create a presentation, in the worst of the cases), and MORE IMPORTANTLY, this new phone had to be very light weight.
+
+this phone, the iqoo z10r fit the bill in every way, but one (wait for it).
+
+the other phone i almost bought, but didn't really, was the tecno pova curve. that's a slim, light weight phone with a decent chipset (7300). it lost in the looks department.
+
+but this phone had a lot of things going for it: a solid chipset (7400), great cameras (for a mid range phone, especially with the vivo legacy), fairly slim, and fairly light weight.
+
+i have been using this phone as my daily driver for the past few months now, and the iqoo z10r has NOT disappointed in most departments, spare one: this phone is wide! had this phone been a little more wide... this phone would have been a square! holding the phone in a single hand is NOT easy because of how wide the phone is.
+
+i am not a fan of the camera bump either. and the light... again, i am not a fan of it.
+
+the front camera quality is amazing. rear cameras... i am not so sure. they are okay. my low/mid range infinix, redmi and realme phones probably take equally good, if not better pictures with their rear cameras, when compared to this phone's rear cameras.
+
+another big problem: i think this phone could get damaged quite easily given how thin it is. just an hour back i was getting out of my friend's car, and my phone was in between my legs, or maybe i was sitting on it, and the phone fell on a concrete road, as i exited the vehicle. for a minute i thought: there goes my 20k. luckily i had bought a decently tough cover for the phone, so the phone survived (i hope). let's see... we will know if this phone can actually survive a few feet falls onto heavy concrete streets.
+
+i have played multiple games on this phone - bgmi, racing games, some low end games, etc, and they all run smoothly. my ancient redmi k50 supports smooth + extreme+, but this phone supports only smooth + extreme. doesn't make much of a difference for me as i am a casual bgmi warrior.
+
+overall, this is a good phone for the price, if you can overlook the fact that it is VERY WIDE!
+
+Read more",Reviewed in India on 13 November 2025,20251118_003826,amazon_scraper,2825,541,41,541,198,4.2014787430683915,0.9888,0.127,0.07,0.803,False,0.4888,10,-0.011199999999999988,5,1,0.007380073800738007,"['battery', 'camera', 'price', 'design', 'quality', 'performance', 'service']",7,0.9888,0.9888,0.9888,0.0,0.9888,0.9888,0.9888,0.9888,1,0,1,0,0,1,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",2,"['lit', 'mid']",False,False,,False,0.7911070110701107
+B0FHB5V36G,"5.0 out of 5 stars
+ I am very happy to share this review",5.0,"Superb Mobile, excellent quality, really value for money. Thanks iQOO.",Reviewed in India on 14 November 2025,20251118_003826,amazon_scraper,70,10,3,10,6,6.1,0.9245,0.691,0.0,0.309,False,0.07550000000000001,0,0.9245,1,0,0.09090909090909091,"['camera', 'price', 'quality']",3,0.0,0.9245,0.9245,0.0,0.0,0.9245,0.0,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.2676363636363636
+B0FHB5V36G,"5.0 out of 5 stars
+ nice Quality",5.0,best,Reviewed in India on 13 November 2025,20251118_003826,amazon_scraper,4,1,1,1,1,4.0,0.6369,1.0,0.0,0.0,False,0.3631,0,0.6369,1,0,0.5,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2288
+B0FHB5V36G,"5.0 out of 5 stars
+ Happy with the purchase",5.0,Great purchase !! Working well and has overall good performance,Reviewed in India on 13 November 2025,20251118_003826,amazon_scraper,63,10,1,10,9,5.4,0.8652,0.58,0.0,0.42,False,0.13480000000000003,0,0.8652,2,0,0.18181818181818182,['performance'],1,0.0,0.0,0.0,0.0,0.0,0.0,0.8652,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2398727272727273
+B0FHB5V36G,"4.0 out of 5 stars
+ Balanced Performance with Room for Improvement",4.0,"A decent mid-range mobile; feels smooth while using, lightweight, with a decent camera and good power efficiency.
+The power adapter capacity could be improved, preferably from 44W to 80W (expected).
+However, don’t rely on the water-resistant feature of this mobile.
+
+Thanks 🙂",Reviewed in India on 24 October 2025,20251118_003826,amazon_scraper,275,42,4,42,26,5.5476190476190474,0.886,0.246,0.0,0.754,False,0.386,0,0.886,1,0,0.023255813953488372,"['battery', 'camera', 'performance']",3,0.886,0.886,0.0,0.0,0.0,0.0,0.886,0.0,0,0,0,0,0,0,joy,1,True,joy,"{'dominant': 'joy', 'emotions': {'joy': 1, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",2,"['mid', 'cap']",False,False,,False,0.39448837209302323
+B0FHB5V36G,"5.0 out of 5 stars
+ Friendly usage",5.0,Good mobile for this price,Reviewed in India on 10 November 2025,20251118_003826,amazon_scraper,26,5,1,5,5,4.4,0.4404,0.42,0.0,0.58,False,0.5596,0,0.4404,1,0,0.16666666666666666,['price'],1,0.0,0.0,0.4404,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2152
+B0FHB5V36G,"4.0 out of 5 stars
+ Budget phone with quality",4.0,"Camera- excellent, Screen display- Good, but little bit whiteish...could have been better in contrast, sound- perfectly fine. Call quality is good, not heating, Battery is Good for daily nromal usage....Only cons- No Provision for Memory Card and no 3.5mm jack.",Reviewed in India on 12 October 2025,20251118_003826,amazon_scraper,261,40,11,40,23,5.55,0.9598,0.395,0.093,0.513,False,0.4598,3,0.6597999999999999,4,0,0.0975609756097561,"['battery', 'camera', 'quality']",3,0.9598,0.9598,0.0,0.0,0.0,0.9598,0.0,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.39683414634146336
+B0F1D9LCK3,"5.0 out of 5 stars
+ Good phone for the price",5.0,"I'm using the mobile for almost a week. I feel that this worth the price - good camera, speed, display. Battery is normal, okay for daily use. Mobile is thin even with the mobile cover and very light weight. Easy to pull from pocket anytime.. Totally all together satisfied.
+
+Good and very fast and fluid while playing games like BGM etc",Reviewed in India on 27 September 2025,20251118_003900,amazon_scraper,337,61,8,61,40,4.524590163934426,0.9542,0.289,0.0,0.711,False,0.04579999999999995,0,0.9542,4,0,0.06451612903225806,"['battery', 'camera', 'price', 'delivery', 'performance']",5,0.9542,0.9542,0.9542,0.9542,0.0,0.0,0.9542,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.5100774193548387
+B0F1D9LCK3,"4.0 out of 5 stars
+ Best Phone Under 20K!!!!",4.0,"Nice One on this segment..!!!
+Good perfomence.Picture Quality is awasome.I think this phone is an all-rounder under 20K....!!!!
+Very smooth Touch pad we can easily Handle.Duel Sterio Speakers gives you best sound quality.",Reviewed in India on 2 November 2025,20251118_003900,amazon_scraper,221,33,11,33,24,5.7272727272727275,0.9256,0.317,0.0,0.683,False,0.4256,0,0.9256,3,0,0.08823529411764706,"['camera', 'quality', 'performance']",3,0.0,0.9256,0.0,0.0,0.0,0.9256,0.9256,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.366435294117647
+B0F1D9LCK3,"5.0 out of 5 stars
+ It is too good refferal to your friends",5.0,"Overall product is too good no heating issues while playing games or using while video taking.
+Pros : Battry on worst case it will give minimum 12 hours
+Fast charging and auto cut off
+Camera also ok
+No gaming lags and smooth touch fell
+
+Cons: Sound very less
+
+Connectivity issue while low signal it was getting blur sound",Reviewed in India on 2 November 2025,20251118_003900,amazon_scraper,321,58,2,58,49,4.517241379310345,-0.8074,0.098,0.217,0.685,True,1.8074,2,-1.0074,1,1,0.0,"['battery', 'camera', 'delivery', 'performance']",4,-0.8074,-0.8074,0.0,-0.8074,0.0,0.0,-0.8074,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.4682
+B0F1D9LCK3,"5.0 out of 5 stars
+ you should have to purchase",5.0,"best best mobile it can also can take competeation with mire expesive mobile
+it is beat in all category either in gaming or in camera quality
+colour of mobile and its durebilty is excellent
+you can bliendly purchase it
+tis mibile is vary for money as well as time
+it batery is too good quality with broad backup
+its refresh rate is awesome
+it didnt heat easily
+speed is excellent
+colour texture in to impressive
+vvery light wait mobile",Reviewed in India on 24 September 2025,20251118_003900,amazon_scraper,435,79,1,79,55,4.518987341772152,0.9802,0.281,0.02,0.698,False,0.01980000000000004,0,0.9802,6,0,0.075,"['camera', 'price', 'quality', 'performance']",4,0.0,0.9802,0.9802,0.0,0.0,0.9802,0.9802,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",2,"['lit', 'fresh']",False,False,,False,0.56525
+B0F1D9LCK3,"5.0 out of 5 stars
+ Value for money",5.0,Good product .value for money.very sleek and stylish.,Reviewed in India on 10 November 2025,20251118_003900,amazon_scraper,53,8,4,8,5,5.75,0.6486,0.469,0.0,0.531,False,0.35140000000000005,0,0.6486,1,0,0.1111111111111111,['price'],1,0.0,0.0,0.6486,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.22126666666666667
+B0F1D9LCK3,"4.0 out of 5 stars
+ Best multimedia mobile under 18k",4.0,Nice display for multimedia and speakers sounds also smooth and loud.,Reviewed in India on 25 September 2025,20251118_003900,amazon_scraper,69,11,2,11,9,5.363636363636363,0.4215,0.219,0.0,0.781,False,0.07850000000000001,0,0.4215,1,0,0.08333333333333333,['performance'],1,0.0,0.0,0.0,0.0,0.0,0.0,0.4215,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2293
+B0F1D9LCK3,"5.0 out of 5 stars
+ Excellent phone",5.0,Excellent phone I m loving it and amazing performance by the phone good looking and handy phone easy to use,Reviewed in India on 5 October 2025,20251118_003900,amazon_scraper,107,20,1,20,17,4.4,0.9531,0.57,0.0,0.43,False,0.04690000000000005,0,0.9531,3,0,0.14285714285714285,"['design', 'performance']",2,0.0,0.0,0.0,0.0,0.9531,0.0,0.9531,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.29282857142857144
+B0F1D9LCK3,"5.0 out of 5 stars
+ Very good smartphone",5.0,Very good smartphone Battery life sound quality Ram Rom Best Smartphone it's very fast I gifted to my Beloved son,Reviewed in India on 1 November 2025,20251118_003900,amazon_scraper,113,20,1,20,17,4.7,0.8932,0.401,0.0,0.599,False,0.1068,0,0.8932,2,0,0.09523809523809523,"['battery', 'camera', 'delivery', 'quality', 'performance']",5,0.8932,0.8932,0.0,0.8932,0.0,0.8932,0.8932,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3468857142857143
+B0F1D9LCK3,"5.0 out of 5 stars
+ Good phone for the price",5.0,"I'm using the mobile for almost a week. I feel that this worth the price - good camera, speed, display. Battery is normal, okay for daily use. Mobile is thin even with the mobile cover and very light weight. Easy to pull from pocket anytime.. Totally all together satisfied.
+
+Good and very fast and fluid while playing games like BGM etc",Reviewed in India on 27 September 2025,20251118_003900,amazon_scraper,337,61,8,61,40,4.524590163934426,0.9542,0.289,0.0,0.711,False,0.04579999999999995,0,0.9542,4,0,0.06451612903225806,"['battery', 'camera', 'price', 'delivery', 'performance']",5,0.9542,0.9542,0.9542,0.9542,0.0,0.0,0.9542,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.5100774193548387
+B0F1D9LCK3,"4.0 out of 5 stars
+ Best Phone Under 20K!!!!",4.0,"Nice One on this segment..!!!
+Good perfomence.Picture Quality is awasome.I think this phone is an all-rounder under 20K....!!!!
+Very smooth Touch pad we can easily Handle.Duel Sterio Speakers gives you best sound quality.",Reviewed in India on 2 November 2025,20251118_003900,amazon_scraper,221,33,11,33,24,5.7272727272727275,0.9256,0.317,0.0,0.683,False,0.4256,0,0.9256,3,0,0.08823529411764706,"['camera', 'quality', 'performance']",3,0.0,0.9256,0.0,0.0,0.0,0.9256,0.9256,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.366435294117647
+B0F1D9LCK3,"5.0 out of 5 stars
+ It is too good refferal to your friends",5.0,"Overall product is too good no heating issues while playing games or using while video taking.
+Pros : Battry on worst case it will give minimum 12 hours
+Fast charging and auto cut off
+Camera also ok
+No gaming lags and smooth touch fell
+
+Cons: Sound very less
+
+Connectivity issue while low signal it was getting blur sound",Reviewed in India on 2 November 2025,20251118_003900,amazon_scraper,321,58,2,58,49,4.517241379310345,-0.8074,0.098,0.217,0.685,True,1.8074,2,-1.0074,1,1,0.0,"['battery', 'camera', 'delivery', 'performance']",4,-0.8074,-0.8074,0.0,-0.8074,0.0,0.0,-0.8074,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.4682
+B0F1D9LCK3,"5.0 out of 5 stars
+ you should have to purchase",5.0,"best best mobile it can also can take competeation with mire expesive mobile
+it is beat in all category either in gaming or in camera quality
+colour of mobile and its durebilty is excellent
+you can bliendly purchase it
+tis mibile is vary for money as well as time
+it batery is too good quality with broad backup
+its refresh rate is awesome
+it didnt heat easily
+speed is excellent
+colour texture in to impressive
+vvery light wait mobile",Reviewed in India on 24 September 2025,20251118_003900,amazon_scraper,435,79,1,79,55,4.518987341772152,0.9802,0.281,0.02,0.698,False,0.01980000000000004,0,0.9802,6,0,0.075,"['camera', 'price', 'quality', 'performance']",4,0.0,0.9802,0.9802,0.0,0.0,0.9802,0.9802,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",2,"['lit', 'fresh']",False,False,,False,0.56525
+B0F1D9LCK3,"5.0 out of 5 stars
+ Value for money",5.0,Good product .value for money.very sleek and stylish.,Reviewed in India on 10 November 2025,20251118_003900,amazon_scraper,53,8,4,8,5,5.75,0.6486,0.469,0.0,0.531,False,0.35140000000000005,0,0.6486,1,0,0.1111111111111111,['price'],1,0.0,0.0,0.6486,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.22126666666666667
+B0F1D9LCK3,"4.0 out of 5 stars
+ Best multimedia mobile under 18k",4.0,Nice display for multimedia and speakers sounds also smooth and loud.,Reviewed in India on 25 September 2025,20251118_003900,amazon_scraper,69,11,2,11,9,5.363636363636363,0.4215,0.219,0.0,0.781,False,0.07850000000000001,0,0.4215,1,0,0.08333333333333333,['performance'],1,0.0,0.0,0.0,0.0,0.0,0.0,0.4215,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2293
+B0F1D9LCK3,"5.0 out of 5 stars
+ Excellent phone",5.0,Excellent phone I m loving it and amazing performance by the phone good looking and handy phone easy to use,Reviewed in India on 5 October 2025,20251118_003900,amazon_scraper,107,20,1,20,17,4.4,0.9531,0.57,0.0,0.43,False,0.04690000000000005,0,0.9531,3,0,0.14285714285714285,"['design', 'performance']",2,0.0,0.0,0.0,0.0,0.9531,0.0,0.9531,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.29282857142857144
+B0F1D9LCK3,"5.0 out of 5 stars
+ Very good smartphone",5.0,Very good smartphone Battery life sound quality Ram Rom Best Smartphone it's very fast I gifted to my Beloved son,Reviewed in India on 1 November 2025,20251118_003900,amazon_scraper,113,20,1,20,17,4.7,0.8932,0.401,0.0,0.599,False,0.1068,0,0.8932,2,0,0.09523809523809523,"['battery', 'camera', 'delivery', 'quality', 'performance']",5,0.8932,0.8932,0.0,0.8932,0.0,0.8932,0.8932,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3468857142857143
+B0DDY9HMJG,"5.0 out of 5 stars
+ Nice as per price",5.0,Good configuration in low budget. Overall nice. Battery settings are good.,Reviewed in India on 3 November 2025,20251118_003935,amazon_scraper,74,11,4,11,8,5.818181818181818,0.7579,0.486,0.119,0.395,False,0.24209999999999998,0,0.7579,3,0,0.25,"['battery', 'price']",2,0.7579,0.0,0.7579,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2753
+B0DDY9HMJG,"4.0 out of 5 stars
+ Sim card and memory card slot issue",4.0,"The 2nd sim and memory card slot is merged so you can either have 2 sims or 1 sim and 1 memory card..this is kind of a technical backwardness and very disappointing. There is no photo gallery app, i had to download one. While camera is good, photo editing is a hassle. Otherwise its a decent phone. Its value for money, performance is good. Doesnt heat up. Charges fast. But i had to let go of my memory card to accommodate both sim cards.",Reviewed in India on 29 June 2025,20251118_003935,amazon_scraper,439,84,11,84,50,4.238095238095238,0.287,0.087,0.048,0.866,False,0.21300000000000002,1,0.18699999999999997,2,1,0.011764705882352941,"['battery', 'camera', 'price', 'delivery', 'performance']",5,0.287,0.287,0.287,0.287,0.0,0.0,0.287,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['ass'],False,False,,False,0.5915647058823529
+B0DDY9HMJG,"5.0 out of 5 stars
+ Here’s a detailed review of the Motorola G45 5G, a strong contender in the budget smartphone segment",5.0,"✅ Should You Buy It?
+
+Great Choice If You Want
+
+A smooth 120 Hz smartphone experience
+
+Clean Android with solid performance
+
+Long-lasting battery with decent charging
+
+Look Elsewhere If You Prefer
+
+AMOLED display (for sharper, punchier visuals)
+
+Top-tier camera performance or faster charging
+
+Higher-resolution screen at similar price
+
+👍 Pros
+
+120 Hz Smooth Display: One of the highest refresh rates in its range, making navigation & scrolling feel fluid
+
+Reliable Performance: Snapdragon 6s Gen 3 handles daily tasks like browsing, social apps, and light gaming well — noted as “very good” in benchmarks
+
+Clean Stock Android Feel: Minimal bloatware with Motorola’s helpful gestures and features
+
+👎 Cons
+
+Display Limitations: 720p resolution feels less sharp; brightness and color gamut lag behind AMOLED rivals
+
+Camera Software Issues: Camera app can be sluggish, macro shots are underwhelming
+
+Notification Spam: Some users noted annoying pre-installed notification prompts
+
+Charging Speed: 20 W is slower than the 33–53 W charging seen in some competitors
+
+🗣️ Real-World Feedback
+
+“It’s a solid budget phone with a great design, good performance, nice cameras, and a smooth user experience”
+
+“For call, WhatsApp, YouTube etc it’s performing decently well”
+
+Read more",Reviewed in India on 30 June 2025,20251118_003935,amazon_scraper,1270,190,1,190,114,5.578947368421052,0.9649,0.164,0.05,0.786,False,0.03510000000000002,0,0.9649,7,0,0.03664921465968586,"['battery', 'camera', 'price', 'delivery', 'design', 'quality', 'performance', 'service']",8,0.9649,0.9649,0.9649,0.9649,0.9649,0.9649,0.9649,0.9649,0,0,0,0,0,2,trust,4,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",2,"['clean', 'fresh']",False,False,,False,0.815497382198953
+B0DDY9HMJG,"4.0 out of 5 stars
+ Value for money",4.0,"Phone is good ,n am writing review with it nly ,hv games like PUBG call of duty n other 1 big game ,but still the phn manage k ,but brightness not very low when out side problem",Reviewed in India on 9 November 2025,20251118_003935,amazon_scraper,177,37,1,37,33,3.810810810810811,0.6244,0.229,0.084,0.687,False,0.12439999999999996,1,0.5244,1,0,0.02631578947368421,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.30034736842105264
+B0DDY9HMJG,"5.0 out of 5 stars
+ Good quality ph",5.0,"Value for money
+Build quality very gd
+Heating issue no
+Battery life better
+Phone hangs no
+Gd features",Reviewed in India on 26 October 2025,20251118_003935,amazon_scraper,101,18,1,18,16,4.666666666666667,0.2263,0.224,0.186,0.591,False,0.7737,2,0.02629999999999999,0,0,0.0,"['battery', 'camera', 'price', 'quality']",4,0.2263,0.2263,0.2263,0.0,0.0,0.2263,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3042
+B0DDY9HMJG,"5.0 out of 5 stars
+ Good performance",5.0,Nice phone with good battery backup and performance,Reviewed in India on 12 November 2025,20251118_003935,amazon_scraper,51,8,1,8,8,5.5,0.6908,0.487,0.0,0.513,False,0.30920000000000003,0,0.6908,2,0,0.2222222222222222,"['battery', 'performance']",2,0.6908,0.0,0.0,0.0,0.0,0.0,0.6908,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.25753333333333334
+B0DDY9HMJG,"3.0 out of 5 stars
+ good & fair",3.0,"the phone is good with good, battery is ok , connectivity ok, but charges is heat early during charging mobile , no fingerprint lock facility",Reviewed in India on 29 July 2025,20251118_003935,amazon_scraper,141,25,1,25,19,4.68,-0.09,0.24,0.184,0.575,False,0.09,1,-1.0,2,0,0.07692307692307693,['battery'],1,-0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.28473846153846155
+B0DDY9HMJG,"4.0 out of 5 stars
+ Excellent product",4.0,Value for money,Reviewed in India on 6 November 2025,20251118_003935,amazon_scraper,15,3,1,3,3,4.333333333333333,0.34,0.545,0.0,0.455,False,0.15999999999999998,0,0.34,0,0,0.0,['price'],1,0.0,0.0,0.34,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.182
+B0DDY9HMJG,"5.0 out of 5 stars
+ Nice as per price",5.0,Good configuration in low budget. Overall nice. Battery settings are good.,Reviewed in India on 3 November 2025,20251118_003935,amazon_scraper,74,11,4,11,8,5.818181818181818,0.7579,0.486,0.119,0.395,False,0.24209999999999998,0,0.7579,3,0,0.25,"['battery', 'price']",2,0.7579,0.0,0.7579,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.2753
+B0DDY9HMJG,"4.0 out of 5 stars
+ Sim card and memory card slot issue",4.0,"The 2nd sim and memory card slot is merged so you can either have 2 sims or 1 sim and 1 memory card..this is kind of a technical backwardness and very disappointing. There is no photo gallery app, i had to download one. While camera is good, photo editing is a hassle. Otherwise its a decent phone. Its value for money, performance is good. Doesnt heat up. Charges fast. But i had to let go of my memory card to accommodate both sim cards.",Reviewed in India on 29 June 2025,20251118_003935,amazon_scraper,439,84,11,84,50,4.238095238095238,0.287,0.087,0.048,0.866,False,0.21300000000000002,1,0.18699999999999997,2,1,0.011764705882352941,"['battery', 'camera', 'price', 'delivery', 'performance']",5,0.287,0.287,0.287,0.287,0.0,0.0,0.287,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['ass'],False,False,,False,0.5915647058823529
+B0DDY9HMJG,"5.0 out of 5 stars
+ Here’s a detailed review of the Motorola G45 5G, a strong contender in the budget smartphone segment",5.0,"✅ Should You Buy It?
+
+Great Choice If You Want
+
+A smooth 120 Hz smartphone experience
+
+Clean Android with solid performance
+
+Long-lasting battery with decent charging
+
+Look Elsewhere If You Prefer
+
+AMOLED display (for sharper, punchier visuals)
+
+Top-tier camera performance or faster charging
+
+Higher-resolution screen at similar price
+
+👍 Pros
+
+120 Hz Smooth Display: One of the highest refresh rates in its range, making navigation & scrolling feel fluid
+
+Reliable Performance: Snapdragon 6s Gen 3 handles daily tasks like browsing, social apps, and light gaming well — noted as “very good” in benchmarks
+
+Clean Stock Android Feel: Minimal bloatware with Motorola’s helpful gestures and features
+
+👎 Cons
+
+Display Limitations: 720p resolution feels less sharp; brightness and color gamut lag behind AMOLED rivals
+
+Camera Software Issues: Camera app can be sluggish, macro shots are underwhelming
+
+Notification Spam: Some users noted annoying pre-installed notification prompts
+
+Charging Speed: 20 W is slower than the 33–53 W charging seen in some competitors
+
+🗣️ Real-World Feedback
+
+“It’s a solid budget phone with a great design, good performance, nice cameras, and a smooth user experience”
+
+“For call, WhatsApp, YouTube etc it’s performing decently well”
+
+Read more",Reviewed in India on 30 June 2025,20251118_003935,amazon_scraper,1270,190,1,190,114,5.578947368421052,0.9649,0.164,0.05,0.786,False,0.03510000000000002,0,0.9649,7,0,0.03664921465968586,"['battery', 'camera', 'price', 'delivery', 'design', 'quality', 'performance', 'service']",8,0.9649,0.9649,0.9649,0.9649,0.9649,0.9649,0.9649,0.9649,0,0,0,0,0,2,trust,4,True,neutral,"{'dominant': 'neutral', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 0}}",2,"['clean', 'fresh']",False,False,,False,0.815497382198953
+B0DDY9HMJG,"4.0 out of 5 stars
+ Value for money",4.0,"Phone is good ,n am writing review with it nly ,hv games like PUBG call of duty n other 1 big game ,but still the phn manage k ,but brightness not very low when out side problem",Reviewed in India on 9 November 2025,20251118_003935,amazon_scraper,177,37,1,37,33,3.810810810810811,0.6244,0.229,0.084,0.687,False,0.12439999999999996,1,0.5244,1,0,0.02631578947368421,[],0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.30034736842105264
+B0DDY9HMJG,"5.0 out of 5 stars
+ Good quality ph",5.0,"Value for money
+Build quality very gd
+Heating issue no
+Battery life better
+Phone hangs no
+Gd features",Reviewed in India on 26 October 2025,20251118_003935,amazon_scraper,101,18,1,18,16,4.666666666666667,0.2263,0.224,0.186,0.591,False,0.7737,2,0.02629999999999999,0,0,0.0,"['battery', 'camera', 'price', 'quality']",4,0.2263,0.2263,0.2263,0.0,0.0,0.2263,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3042
+B0DDY9HMJG,"5.0 out of 5 stars
+ Good performance",5.0,Nice phone with good battery backup and performance,Reviewed in India on 12 November 2025,20251118_003935,amazon_scraper,51,8,1,8,8,5.5,0.6908,0.487,0.0,0.513,False,0.30920000000000003,0,0.6908,2,0,0.2222222222222222,"['battery', 'performance']",2,0.6908,0.0,0.0,0.0,0.0,0.0,0.6908,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.25753333333333334
+B0DDY9HMJG,"3.0 out of 5 stars
+ good & fair",3.0,"the phone is good with good, battery is ok , connectivity ok, but charges is heat early during charging mobile , no fingerprint lock facility",Reviewed in India on 29 July 2025,20251118_003935,amazon_scraper,141,25,1,25,19,4.68,-0.09,0.24,0.184,0.575,False,0.09,1,-1.0,2,0,0.07692307692307693,['battery'],1,-0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.28473846153846155
+B0DDY9HMJG,"4.0 out of 5 stars
+ Excellent product",4.0,Value for money,Reviewed in India on 6 November 2025,20251118_003935,amazon_scraper,15,3,1,3,3,4.333333333333333,0.34,0.545,0.0,0.455,False,0.15999999999999998,0,0.34,0,0,0.0,['price'],1,0.0,0.0,0.34,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.182
+B0D78X544X,"5.0 out of 5 stars
+ Great Value for Money",5.0,"Amazing phone for the low price. Great all round budget phone experience. You won't have the best performance or the best speakers or the best display, but overall it's good, nonetheless.",Reviewed in India on 10 November 2025,20251118_004008,amazon_scraper,187,31,4,31,17,5.064516129032258,0.4015,0.215,0.198,0.587,False,0.5985,1,0.3015,6,0,0.1875,"['price', 'performance']",2,0.0,0.0,0.4015,0.0,0.0,0.0,0.4015,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.3485250000000001
+B0D78X544X,"4.0 out of 5 stars
+ Value for money under 11k",4.0,Low expectations then go for this phone internal memory 125 gb so gamer's not presfor and it's useful for daily usage not for heavy work and special features not required and go for this at lowest price less features very good product,Reviewed in India on 17 October 2025,20251118_004008,amazon_scraper,234,42,1,42,30,4.595238095238095,0.5899,0.17,0.094,0.737,False,0.08989999999999998,3,0.28989999999999994,1,0,0.023255813953488372,['price'],1,0.0,0.0,0.5899,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.34628837209302327
+B0D78X544X,"5.0 out of 5 stars
+ Moblie features are awesome",5.0,I have gifted to my father 🤩The moblie quality is awesome and thank you for the amazon such a great job you are doing ❤️,Reviewed in India on 11 November 2025,20251118_004008,amazon_scraper,120,25,1,25,22,3.84,0.9081,0.395,0.0,0.605,False,0.09189999999999998,0,0.9081,2,0,0.07692307692307693,"['camera', 'quality']",2,0.0,0.9081,0.0,0.0,0.0,0.9081,0.0,0.0,1,0,0,0,0,0,joy,1,True,love,"{'dominant': 'love', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 1}}",1,['lit'],False,False,,False,0.30053846153846153
+B0D78X544X,"5.0 out of 5 stars
+ ONLY FOR REDMI LOVERS",5.0,"As always The Redmi 13 5G stands out in the budget segment by offering a surprisingly premium ""Crystal Glass Design"" and class-leading optics, centered around a powerful 108MP main camera that captures excellent daylight photos. Beyond its looks, the phone provides a very smooth daily experience thanks to the large 6.79-inch FHD+ display with a fluid 120Hz refresh rate and dependable performance from the Snapdragon 4 Gen 2 AE chipset running Xiaomi's new HyperOS. Crucially, it boasts an impressive 5030mAh battery with 33W fast charging, making it a robust, stylish, and long-lasting choice for buyers who prioritize aesthetics and photography on a limited budget.",Reviewed in India on 27 October 2025,20251118_004008,amazon_scraper,669,104,5,104,74,5.4423076923076925,0.9371,0.16,0.018,0.823,False,0.06289999999999996,0,0.9371,1,0,0.009523809523809525,"['battery', 'camera', 'price', 'delivery', 'design', 'performance']",6,0.9371,0.9371,0.9371,0.9371,0.9371,0.0,0.9371,0.0,1,0,0,0,0,1,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",3,"['fresh', 'ass', 'cap']",False,False,,False,0.7052285714285714
+B0D78X544X,"3.0 out of 5 stars
+ Good mobile and value for money (8+128)",3.0,"As per price this mobile is a good option if the budget is under 12k .
+While company provide some good specs like fhd display, good processor, 108 mp camera, 33w charger they also cut cost to battery quality, speaker even in display and camera .
+It's a fhd display but not support true fhd colours and smoothness.
+This processor can't handle multitasking for heavy apps especially for modern days heavy games.
+It's provide a 4nm tech processor but the battery draining is more than expected even in normal use so the power efficiency branding is a eyewash . You get a option for turbo charging to get rid of this .
+Speaker quality is not good . Sound is not clear and loud .
+But still it's a good option under 12k . Don't expect high quality in low budget phones .",Reviewed in India on 31 August 2025,20251118_004008,amazon_scraper,764,143,11,143,79,4.34965034965035,0.7257,0.127,0.086,0.786,False,0.7257,4,0.3257,5,0,0.034722222222222224,"['battery', 'camera', 'price', 'quality', 'performance', 'service']",6,0.7257,0.7257,0.7257,0.0,0.0,0.7257,0.7257,0.7257,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.7280083333333333
+B0D78X544X,"4.0 out of 5 stars
+ Must buy full battery",4.0,"got this for my younger brother who loves to game and spend hours on social media. The 5030mAh battery is fantastic and keeps up with his usage all day, and the 33W fast charging is a big plus. The large 120Hz display is bright and clear for streaming videos. However, for heavier games, he sometimes notices the performance is just average, not top-tier.",Reviewed in India on 8 October 2025,20251118_004008,amazon_scraper,355,63,5,63,44,4.650793650793651,0.9153,0.181,0.0,0.819,False,0.4153,1,0.8153,1,0,0.015625,"['battery', 'camera', 'delivery', 'performance']",4,0.9153,0.9153,0.0,0.9153,0.0,0.0,0.9153,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.49234375
+B0D78X544X,"5.0 out of 5 stars
+ 5g",5.0,"At a low price nice phone
+Has 5g 8gb q38gb memories
+Good camera
+Must buy",Reviewed in India on 14 November 2025,20251118_004008,amazon_scraper,72,15,1,15,15,3.8666666666666667,0.5574,0.303,0.112,0.585,False,0.4426,0,0.5574,2,0,0.125,"['camera', 'price']",2,0.0,0.5574,0.5574,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.26815
+B0D78X544X,"4.0 out of 5 stars
+ Good",4.0,"Overall the phone is good, storage and display works well, but the camera quality did not meet my expectations,it is not that good. If you want to purchase it for your parents you can go for it.",Reviewed in India on 10 October 2025,20251118_004008,amazon_scraper,194,37,3,37,27,4.27027027027027,0.7783,0.211,0.0,0.789,False,0.2783,2,0.5783,2,0,0.05263157894736842,"['camera', 'quality']",2,0.0,0.7783,0.0,0.0,0.0,0.7783,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3476947368421053
+B0D78X544X,"5.0 out of 5 stars
+ Great Value for Money",5.0,"Amazing phone for the low price. Great all round budget phone experience. You won't have the best performance or the best speakers or the best display, but overall it's good, nonetheless.",Reviewed in India on 10 November 2025,20251118_004008,amazon_scraper,187,31,4,31,17,5.064516129032258,0.4015,0.215,0.198,0.587,False,0.5985,1,0.3015,6,0,0.1875,"['price', 'performance']",2,0.0,0.0,0.4015,0.0,0.0,0.0,0.4015,0.0,1,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.3485250000000001
+B0D78X544X,"4.0 out of 5 stars
+ Value for money under 11k",4.0,Low expectations then go for this phone internal memory 125 gb so gamer's not presfor and it's useful for daily usage not for heavy work and special features not required and go for this at lowest price less features very good product,Reviewed in India on 17 October 2025,20251118_004008,amazon_scraper,234,42,1,42,30,4.595238095238095,0.5899,0.17,0.094,0.737,False,0.08989999999999998,3,0.28989999999999994,1,0,0.023255813953488372,['price'],1,0.0,0.0,0.5899,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.34628837209302327
+B0D78X544X,"5.0 out of 5 stars
+ Moblie features are awesome",5.0,I have gifted to my father 🤩The moblie quality is awesome and thank you for the amazon such a great job you are doing ❤️,Reviewed in India on 11 November 2025,20251118_004008,amazon_scraper,120,25,1,25,22,3.84,0.9081,0.395,0.0,0.605,False,0.09189999999999998,0,0.9081,2,0,0.07692307692307693,"['camera', 'quality']",2,0.0,0.9081,0.0,0.0,0.0,0.9081,0.0,0.0,1,0,0,0,0,0,joy,1,True,love,"{'dominant': 'love', 'emotions': {'joy': 0, 'anger': 0, 'sadness': 0, 'fear': 0, 'surprise': 0, 'love': 1}}",1,['lit'],False,False,,False,0.30053846153846153
+B0D78X544X,"5.0 out of 5 stars
+ ONLY FOR REDMI LOVERS",5.0,"As always The Redmi 13 5G stands out in the budget segment by offering a surprisingly premium ""Crystal Glass Design"" and class-leading optics, centered around a powerful 108MP main camera that captures excellent daylight photos. Beyond its looks, the phone provides a very smooth daily experience thanks to the large 6.79-inch FHD+ display with a fluid 120Hz refresh rate and dependable performance from the Snapdragon 4 Gen 2 AE chipset running Xiaomi's new HyperOS. Crucially, it boasts an impressive 5030mAh battery with 33W fast charging, making it a robust, stylish, and long-lasting choice for buyers who prioritize aesthetics and photography on a limited budget.",Reviewed in India on 27 October 2025,20251118_004008,amazon_scraper,669,104,5,104,74,5.4423076923076925,0.9371,0.16,0.018,0.823,False,0.06289999999999996,0,0.9371,1,0,0.009523809523809525,"['battery', 'camera', 'price', 'delivery', 'design', 'performance']",6,0.9371,0.9371,0.9371,0.9371,0.9371,0.0,0.9371,0.0,1,0,0,0,0,1,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",3,"['fresh', 'ass', 'cap']",False,False,,False,0.7052285714285714
+B0D78X544X,"3.0 out of 5 stars
+ Good mobile and value for money (8+128)",3.0,"As per price this mobile is a good option if the budget is under 12k .
+While company provide some good specs like fhd display, good processor, 108 mp camera, 33w charger they also cut cost to battery quality, speaker even in display and camera .
+It's a fhd display but not support true fhd colours and smoothness.
+This processor can't handle multitasking for heavy apps especially for modern days heavy games.
+It's provide a 4nm tech processor but the battery draining is more than expected even in normal use so the power efficiency branding is a eyewash . You get a option for turbo charging to get rid of this .
+Speaker quality is not good . Sound is not clear and loud .
+But still it's a good option under 12k . Don't expect high quality in low budget phones .",Reviewed in India on 31 August 2025,20251118_004008,amazon_scraper,764,143,11,143,79,4.34965034965035,0.7257,0.127,0.086,0.786,False,0.7257,4,0.3257,5,0,0.034722222222222224,"['battery', 'camera', 'price', 'quality', 'performance', 'service']",6,0.7257,0.7257,0.7257,0.0,0.0,0.7257,0.7257,0.7257,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.7280083333333333
+B0D78X544X,"4.0 out of 5 stars
+ Must buy full battery",4.0,"got this for my younger brother who loves to game and spend hours on social media. The 5030mAh battery is fantastic and keeps up with his usage all day, and the 33W fast charging is a big plus. The large 120Hz display is bright and clear for streaming videos. However, for heavier games, he sometimes notices the performance is just average, not top-tier.",Reviewed in India on 8 October 2025,20251118_004008,amazon_scraper,355,63,5,63,44,4.650793650793651,0.9153,0.181,0.0,0.819,False,0.4153,1,0.8153,1,0,0.015625,"['battery', 'camera', 'delivery', 'performance']",4,0.9153,0.9153,0.0,0.9153,0.0,0.0,0.9153,0.0,2,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.49234375
+B0D78X544X,"5.0 out of 5 stars
+ 5g",5.0,"At a low price nice phone
+Has 5g 8gb q38gb memories
+Good camera
+Must buy",Reviewed in India on 14 November 2025,20251118_004008,amazon_scraper,72,15,1,15,15,3.8666666666666667,0.5574,0.303,0.112,0.585,False,0.4426,0,0.5574,2,0,0.125,"['camera', 'price']",2,0.0,0.5574,0.5574,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",0,[],False,False,,False,0.26815
+B0D78X544X,"4.0 out of 5 stars
+ Good",4.0,"Overall the phone is good, storage and display works well, but the camera quality did not meet my expectations,it is not that good. If you want to purchase it for your parents you can go for it.",Reviewed in India on 10 October 2025,20251118_004008,amazon_scraper,194,37,3,37,27,4.27027027027027,0.7783,0.211,0.0,0.789,False,0.2783,2,0.5783,2,0,0.05263157894736842,"['camera', 'quality']",2,0.0,0.7783,0.0,0.0,0.0,0.7783,0.0,0.0,0,0,0,0,0,0,joy,0,False,neutral,"{'dominant': 'neutral', 'emotions': {}}",1,['lit'],False,False,,False,0.3476947368421053
